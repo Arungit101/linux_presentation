@@ -168,7 +168,7 @@
 			backgroundTransition: 'fade', // none/fade/slide/convex/concave/zoom
 
 			// Parallax background image
-			parallaxBackgroundImage: '../img/josh-felise.jpg', // CSS syntax, e.g. "a.jpg"
+			parallaxBackgroundImage: 'https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwic46m6uJvbAhVEpY8KHck8D0kQjRx6BAgBEAU&url=https%3A%2F%2Funsplash.com%2Fphotos%2FtrvELSvNZoY&psig=AOvVaw0F5lRhmpLEbhZf68YYVQXR&ust=1527151405847211', // CSS syntax, e.g. "a.jpg"
 
 			// Parallax background size
 			parallaxBackgroundSize: '2100px 900px', // CSS syntax, e.g. "3000px 2000px"
